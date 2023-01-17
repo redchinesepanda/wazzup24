@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" xmlns:turbo="http://turbo.yandex.ru" version="2.0">
+    <channel>
+        <!-- Информация о сайте-источнике -->
+        <title>Wazzup</title>
+        <link>https://wazzup24.com/</link>
+        <description>Wazzup - сервис для интеграции WhatsApp, Telegram и Instagram с CRM. Подключение AmoCRM и Битрикс24 за 5 минут</description>
+        <language>ru</language>
+        <turbo:analytics/>
+        <turbo:adNetwork/>
+        <item turbo="true">
+            <!-- Информация о странице -->
+            <turbo:extendedHtml>true</turbo:extendedHtml>
+            <link>https://wazzup24.com/</link>
+            <turbo:source/>
+            <turbo:topic/>
+            <pubDate>Tue, 21 Apr 2015 14:15:00 +0300</pubDate>
+            <author>Wazzup</author>
+            <metrics>
+                <yandex schema_identifier="Идентификатор">
+                    <breadcrumblist>
+                        <breadcrumb url="http://example.com/" text="Домашняя"/>
+                        <!--<breadcrumb url="http://example.com/category/" text="Категория"/>
+                        <breadcrumb url="http://example.com/category/sub-category/" text="Подкатегория"/>
+                        <breadcrumb url="http://example.com/category/sub-category/page1.html" text="Пример страницы"/>-->
+                    </breadcrumblist>
+                </yandex>
+            </metrics>
+            <yandex:related/>
+            <turbo:content>
+                <![CDATA[
+                    <!-- Содержимое 1 страницы -->
+					<h1>test1</h1>
+                ]]>
+            </turbo:content>
+        </item>
+        <item turbo="true">
+            <turbo:content>
+                <![CDATA[
+                    <!-- Содержимое 2 страницы -->
+					<h1>test2</h1>
+                ]]>
+            </turbo:content>
+        </item>
+    <item>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </item></channel>
+</rss>
